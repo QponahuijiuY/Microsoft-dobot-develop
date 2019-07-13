@@ -1,0 +1,2 @@
+该Demo所使用的DLL文件是64位的，因此运行该Demo需要电脑安装64位的Java jdk。
+并请使用USB线连接机械臂运行Demo。
